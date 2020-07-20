@@ -1,0 +1,22 @@
+{
+  "name": "js-workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvdolphin/js-workspace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvdolphin/js-workspace/issues"
+  },
+  "homepage": "https://github.com/vvdolphin/js-workspace#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
